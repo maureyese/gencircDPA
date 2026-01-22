@@ -25,7 +25,19 @@ We worked with notebooks from Google Colab (https://colab.research.google.com/).
 
 ## Genetic Circuit Construction
 
-(to be done...)
+Gene circuit sequences were stored in Benchling:
+
+- pylb Promoter Gene Circuit: https://benchling.com/s/seq-yeFdvlVxDx5KuyEJT9Uk?m=slm-84pa474qitnLYuwiyLHR
+- p43 Promoter Gene Circuit: https://benchling.com/s/seq-TvMQXjQG884q6chNU3Tc?m=slm-PkeQAjnd7UKXslDK0l3d
+- pMSM Promoter Gene Circuit: https://benchling.com/s/seq-aRuC8I2qCFpeLJLDoCan?m=slm-3hCWN2WaaUbeBCutQDCu
+- pYDDF Promoter Gene Circuit: https://benchling.com/s/seq-l8sWvjkjjitUSVCmJsSA?m=slm-3yy5lv6UMV8gGi3qGa4K
+
+Specifications:
+
+- Promoters were retrieved from NCBI: https://www.ncbi.nlm.nih.gov/
+- RBS were designed according to CDS in Salis Lab Software: https://salislab.net/software/design_promoter_calculator
+- CDS were retrieved from NCBI: https://www.ncbi.nlm.nih.gov/
+- Terminator were retrieved from iGEM Parts: https://parts.igem.org/Main_Page
 
 ## Mathematical Modeling
 
