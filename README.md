@@ -4,6 +4,10 @@ This repository corresponds to one of the five computational biology analyses of
 
 > **Objective**: Simulate the behavior of genetic circuits in engineered _B. subtilis_.
 
+- **DPAHelix Members involved (No specific order)**: Axayacatl Porras Diaz, Jesús Daniel Hernández Elizondo.
+- **Advisor**: LBG Mauricio Reyes-Elizondo
+- **PI**: Dr J Claudio Moreno-Rocha
+
 We developed a mathematical model of the SpoVF genetic circuit in engineered Bacillus subtilis to simulate the critical aspects from DNA transcription to DPA (dipicolinic acid) product synthesis. We analyzed transcriptional kinetics, translation dynamics, enzyme catalysis, and product accumulation across four constitutive promoters (p43, pylb, pyddf, pmsm) under varying metabolic conditions.
 
 We worked with notebooks from Google Colab (https://colab.research.google.com/). This repository contains the finalized code and analysis.
